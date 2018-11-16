@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bdda46d-ce8c-4d80-bc11-b429c4b5bfcf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="118519992">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="py" value="2340" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="2340" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2048.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1542360340120" expanded="true" signature="721:726" ph="..." />
+                <marker date="1542360340120" expanded="true" signature="1180:1268" ph="..." />
+                <marker date="1542360340120" expanded="true" signature="1861:1864" ph="..." />
+                <marker date="1542360340120" expanded="true" signature="2197:2199" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game2048/grid_2048.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68">
+              <caret line="48" column="53" selection-start-line="48" selection-start-column="53" selection-end-line="48" selection-end-column="53" />
+              <folding>
+                <marker date="1542360710591" expanded="true" signature="61:66" ph="..." />
+                <marker date="1542360710591" expanded="true" signature="275:350" ph="..." />
+                <marker date="1542360710591" expanded="true" signature="375:380" ph="..." />
+                <marker date="1542360710591" expanded="true" signature="577:603" ph="..." />
+                <marker date="1542360710591" expanded="true" signature="1326:1331" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/game2048/create_grid.py" />
+        <option value="$PROJECT_DIR$/2048.py" />
+        <option value="$PROJECT_DIR$/game2048/grid_2048.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="288" />
+    <option name="y" value="109" />
+    <option name="width" value="643" />
+    <option name="height" value="633" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
+              <item name=".pytest_cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
+              <item name="game2048" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in 2048.py">
+    <configuration name="pytest for 2048.test_create_grid" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;2048.test_create_grid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for 2048.test_grid_add_new_tile_at_position" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;2048.test_grid_add_new_tile_at_position&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for 2048.test_grid_add_new_tile_at_position_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;2048.test_grid_add_new_tile_at_position_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for 2048.test_init_game" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;2048.test_init_game&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in 2048.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/2048.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for 2048.test_grid_add_new_tile_at_position_2" />
+      <item itemvalue="Python tests.pytest for 2048.test_grid_add_new_tile_at_position" />
+      <item itemvalue="Python tests.pytest for 2048.test_create_grid" />
+      <item itemvalue="Python tests.pytest in 2048.py" />
+      <item itemvalue="Python tests.pytest for 2048.test_init_game" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in 2048.py" />
+        <item itemvalue="Python tests.pytest for 2048.test_init_game" />
+        <item itemvalue="Python tests.pytest for 2048.test_grid_add_new_tile_at_position" />
+        <item itemvalue="Python tests.pytest for 2048.test_create_grid" />
+        <item itemvalue="Python tests.pytest for 2048.test_grid_add_new_tile_at_position_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_2048_py - 2018.11.16 at 10h 24m 17s.xml">
+      <configuration name="pytest in 2048.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_2048_test_init_game - 2018.11.16 at 10h 29m 43s.xml">
+      <configuration name="pytest for 2048.test_init_game" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_2048_test_init_game - 2018.11.16 at 10h 29m 45s.xml">
+      <configuration name="pytest for 2048.test_init_game" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_2048_test_init_game - 2018.11.16 at 10h 29m 46s.xml">
+      <configuration name="pytest for 2048.test_init_game" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_2048_test_init_game - 2018.11.16 at 10h 29m 47s.xml">
+      <configuration name="pytest for 2048.test_init_game" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_2048_test_init_game - 2018.11.16 at 10h 29m 48s.xml">
+      <configuration name="pytest for 2048.test_init_game" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_2048_py - 2018.11.16 at 10h 29m 51s.xml">
+      <configuration name="pytest in 2048.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_2048_py - 2018.11.16 at 10h 31m 51s.xml">
+      <configuration name="pytest in 2048.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_2048_py - 2018.11.16 at 10h 31m 53s.xml">
+      <configuration name="pytest in 2048.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_2048_py - 2018.11.16 at 10h 31m 54s.xml">
+      <configuration name="pytest in 2048.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="288" y="109" width="643" height="633" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958678" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2048.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1542360340120" expanded="true" signature="721:726" ph="..." />
+            <marker date="1542360340120" expanded="true" signature="1180:1268" ph="..." />
+            <marker date="1542360340120" expanded="true" signature="1861:1864" ph="..." />
+            <marker date="1542360340120" expanded="true" signature="2197:2199" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game2048/grid_2048.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="48" column="53" selection-start-line="48" selection-start-column="53" selection-end-line="48" selection-end-column="53" />
+          <folding>
+            <marker date="1542360710591" expanded="true" signature="61:66" ph="..." />
+            <marker date="1542360710591" expanded="true" signature="275:350" ph="..." />
+            <marker date="1542360710591" expanded="true" signature="375:380" ph="..." />
+            <marker date="1542360710591" expanded="true" signature="577:603" ph="..." />
+            <marker date="1542360710591" expanded="true" signature="1326:1331" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
